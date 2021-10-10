@@ -1,0 +1,17 @@
+td, th {
+    border: 1px solid black;
+}
+
+.selectedButton {
+    border-radius: 16px;
+    outline: black;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input, select {
+    width: 240px;
+}
